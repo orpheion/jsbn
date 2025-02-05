@@ -1,0 +1,14 @@
+{
+  "name": "jsbn",
+  "version": "0.0.1",
+  "main": "./src/index.js",
+  "files": [
+    "src/**/*",
+    "LICENSE",
+    "README.md"
+  ],
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  },
+  "packageManager": "yarn@1.22.22"
+}
